@@ -5,7 +5,7 @@ Mình có dạo qua các trang thấy có bán mấy cái tools về thay đổi
 ## Cảnh báo
 Đây là tools thay đổi thông tin máy tính cụ thể là regedit vì thế cho nên hãy backup máy tính trước khi thực hiện vì tools có thể làm hỏng máy tính của bạn.
 
-### cách chạy 
+## cách chạy 
 chay file CPA.bat để thay đổi thông tin PC
 
 ### các thông tin thay đổi được trong tools này
