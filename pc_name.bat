@@ -1,4 +1,4 @@
-set /p newName=Please input the new computer name:
+set /A newName=%RANDOM% * 100 / 3276 + 1
 
 echo Modifying registry keys...
 
